@@ -153,3 +153,7 @@ h2{
     letter-spacing: 2px;
     font-family: 'Titillium Web', sans-serif;
 }
+
+form input[type="text"] {
+    text-transform: lowercase;
+}
